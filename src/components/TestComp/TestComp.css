@@ -1,0 +1,14 @@
+.loading {
+    color: #0084ff;
+    font-size: 18px;
+  }
+  
+  .error {
+    color: #ff0000;
+    font-size: 18px;
+  }
+  
+  .success {
+    color: #32CD32;
+    font-size: 18px;
+  }
